@@ -19,10 +19,6 @@
    (name "font-pragmata-pro-liga")
    (version "1.0")
 
-   ;; (source
-   ;;  ;; Instead of using (origin (method local-file) ...),
-   ;;  ;; we directly do (local-file ...)
-   ;;  (local-file "fonts/PragmataPro-ep6wq.zip"))
    (source
     (origin
      (method url-fetch)
