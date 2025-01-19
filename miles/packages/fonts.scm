@@ -26,7 +26,7 @@
      (sha256
       (base32
        "0cna4wavnhnb8j8vg119ap8mqkckx04z2gms2hsz4daywc51ghr8"
-       (file-name "PragmataPro-ep6wq.zip")))))
+       (file-name "PragmataPro-ep6wq.zip?rlkey=gx7rgfbs5frvrnn5e9k1gggid")))))
 
    (build-system font-build-system)
    (arguments
